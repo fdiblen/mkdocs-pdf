@@ -181,7 +181,8 @@ Output:
 Add new features to the created package
 
 ``` { .sh .copy .select linenums="0" title="" }
-copier copy https://github.com/nlesc/python-template.git baklava
+cd baklava
+copier update
 ```
 
 ```
