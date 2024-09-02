@@ -234,6 +234,13 @@ In case there are any conflicts, please resolve them. Then,
 you're done.
 ```
 
+Add the new files to the git repository:
+
+```
+git add --all
+git commit -m"added new features"
+```
+
 ---
 ## :watch: 15:10 (10 mins) - Create a new GitHub repository
 
@@ -288,3 +295,9 @@ python -m pip install --upgrade pip setuptools
 python -m pip install .[dev,publishing]
 ruff format
 ```
+
+
+## FAILING
+
+Competing workflows
+CFF date
