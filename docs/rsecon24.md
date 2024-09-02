@@ -24,9 +24,10 @@ Instructions can be found at [https://github.com/fdiblen/RSECon24](https://githu
 
 !!! note
 
-    Use `bash shell` with a simple prompt:
+    Use `bash shell` with a simple prompt by running:
 
-    $
+    export PS1='$ '
+
 
 Check the shell
 
@@ -211,7 +212,7 @@ git push --set-upstream origin main
 
 
 ---
-##  :watch: 15:35 (10 mins) -  Feedback session
+## :watch: 15:35 (10 mins) -  Feedback session
 
 Short link: [https://tinyurl.com/rsecon24pt](https://tinyurl.com/rsecon24pt)
 
