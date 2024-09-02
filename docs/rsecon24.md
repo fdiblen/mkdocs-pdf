@@ -24,7 +24,7 @@ Instructions can be found at [https://github.com/fdiblen/RSECon24](https://githu
 
 !!! note
 
-    Use `bash shell` with a simple prompt by running:
+    Use `bash` shell with a simple prompt by running:
 
     export PS1='$ '
 
