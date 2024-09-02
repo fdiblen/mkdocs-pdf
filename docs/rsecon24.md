@@ -273,3 +273,18 @@ Questions:
 - What features need to be improved?
 - What features would you like to be added?
 - Any other suggestions or notes?
+
+
+
+## Tips
+
+### using ruff to format your code
+
+```
+cd baklava/
+python -m venv venv
+. ./venv/bin/activate.fish
+python -m pip install --upgrade pip setuptools
+python -m pip install .[dev,publishing]
+ruff format
+```
