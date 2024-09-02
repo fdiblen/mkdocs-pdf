@@ -186,7 +186,52 @@ cd baklava
 copier update
 ```
 
+Select all the features:
+
 ```
+Thanks for updating your project using our template.
+
+You'll be asked a series of questions whose answers are pre-populated
+with previously entered values. Feel free to change them as needed.
+
+Updating to template version 0.6.0.post19.dev0+bfb33bd
+🎤 Select a profile
+   Let me choose (decide each feature yourself)
+🎤 Enter the name of the Python package
+   baklava
+🎤 Enter the version of the Python package
+   0.1.0
+🎤 Enter your full name
+   Faruk D
+🎤 Select a license (see: https://choosealicense.com)
+   Apache License, Version 2.0
+🎤 Who is the copyright holder (default: full name)?
+   Faruk D
+🎤 Short description of package
+   A Sweet package
+🎤 Add keywords to make your package findable on PyPI (comma-separated)
+   keyword1,keyword 2
+🎤 Enter the name of your GitHub username or organization
+   fdiblen
+🎤 What is your email address?
+   faruk@universe.com
+🎤 Select code quality features
+   done (6 selections)
+🎤 Select GitHub Action workflows
+   done (2 selections)
+🎤 Select publish and release features
+   done (3 selections)
+🎤 Select citation features
+   done (2 selections)
+🎤 Select documentation features
+   done (4 selections)
+🎤 Select community features
+   done (2 selections)
+🎤 What is the email address to report code of conduct violations?
+   faruk@universe.com
+Your project "baklava" has been updated successfully!
+In case there are any conflicts, please resolve them. Then,
+you're done.
 ```
 
 ---
