@@ -192,7 +192,7 @@ copier update
 ---
 ## :watch: 15:10 (10 mins) - Create a new GitHub repository
 
-Go to: https://github.com/new
+Go to: [https://github.com/new](https://github.com/new)
 
 - Repo name: baklava
 - Description: `sweet Python package`
