@@ -187,6 +187,23 @@ Go to: https://github.com/new
 ---
 ## :watch: 15:20 (15 mins) - Push the package to the new GitHub repository
 
+Initialize a git repository:
+
+```
+cd baklava
+git init
+git add --all
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:fdiblen/baklava.git
+```
+
+Push to GitHub:
+
+```
+git push --set-upstream origin main
+```
+
 - Look at the generated `next steps` issues
 - Look at the GitHub Action workflows
 
