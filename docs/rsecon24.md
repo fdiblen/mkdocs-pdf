@@ -12,13 +12,15 @@
 
     These notes are for the presenter and may change.
 
-## :watch: 5 min - Introduction - Presentation
+---
+## :watch: 4 mins - Introduction - Presentation
 
+
+---
 ## :watch: 1 min - Check the requirements
 
 Instructions can be found at [https://github.com/fdiblen/RSECon24](https://github.com/fdiblen/RSECon24)
 
----
 Check the shell
 
 ``` { .sh .copy .select linenums="0" title="" }
@@ -26,7 +28,6 @@ $ echo $SHELL
 /usr/bin/bash
 ```
 
----
 Check Python version
 
 ``` { .sh .copy .select linenums="0" title="" }
@@ -34,7 +35,6 @@ $ python --version
 Python 3.12.5
 ```
 
----
 Check git version
 
 ``` { .sh .copy .select linenums="0" title="" }
@@ -42,7 +42,6 @@ $ git --version
 git version 2.46.0
 ```
 
----
 GitHub account
 
 ``` sh linenums="0" title=""
@@ -53,11 +52,11 @@ Connection to github.com closed.
 
 **Useful Links:**
 
-- To create a new account: https://github.com/signup
-- To connect to GitHub with SSH: https://docs.github.com/en/authentication/connecting-to-github-with-ssh
+- To create a new account: [https://github.com/signup](https://github.com/signup)
+- To connect to GitHub with SSH: [https://docs.github.com/en/authentication/connecting-to-github-with-ssh](https://docs.github.com/en/authentication/connecting-to-github-with-ssh)
 
-
-## :watch:  10 mins - Create a Python package using a minimum profile
+---
+## :watch: 14:35 (10 mins) - Create a Python package using a minimum profile
 
 Install copier
 
@@ -125,12 +124,12 @@ Copying from template version None
     create  project_setup.md
     create  pyproject.toml
 
-Your project "baklava" has been successfully created in test_ask folder!
+Your project "baklava" has been successfully created in baklava folder!
 
 ```
 
-
-## :watch: 5 mins - Explain the generated files with minimum profile
+---
+## :watch: 14:45 (5 mins) - Explain the generated files with minimum profile
 
 
 ```
@@ -146,16 +145,20 @@ Your project "baklava" has been successfully created in test_ask folder!
         └── my_module.py
 ```
 
-## :watch: 20 mins - Update the new Python package
+---
+## :watch: 14:50 (20 mins) - Update the new Python package
+
+Add new features to the created package
 
 ``` { .sh .copy .select linenums="0" title="" }
-copier copy https://github.com/nlesc/python-template.git path/to/existing/code
+copier copy https://github.com/nlesc/python-template.git baklava
 ```
 
-- add new features
+```
+```
 
-
-## :watch: 10 mins - Create a new GitHub repository
+---
+## :watch: 15:10 (10 mins) - Create a new GitHub repository
 
 Go to: https://github.com/new
 
@@ -167,11 +170,13 @@ Go to: https://github.com/new
 - **NO license**
 
 
-## :watch: 15 mins - Push the package to the new GitHub repository
+---
+## :watch: 15:20 (15 mins) - Push the package to the new GitHub repository
 
 - Look at the generated `next steps` issues
 - Look at the workflows
 
 
-##  :watch: 10 mins -  Feedback session
+---
+##  :watch: 15:35 (10 mins) -  Feedback session
 
