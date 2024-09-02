@@ -141,12 +141,14 @@ Your project "baklava" has been successfully created in baklava folder!
 Run the command below to see a list of generated files:
 
 ```
-tree baklava
+tree -a baklava
 ```
 
 Output:
 
 ```
+├── .copier-answers.yml
+├── .gitignore
 ├── LICENSE
 ├── MANIFEST.in
 ├── NOTICE
