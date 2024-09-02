@@ -138,8 +138,16 @@ Your project "baklava" has been successfully created in baklava folder!
 
 ```
 
----
-## :watch: 14:45 (5 mins) - Explain the generated files with minimum profile
+Follow the next steps: Initialize a git repository:
+
+```
+cd baklava
+git init
+git add --all
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:fdiblen/baklava.git
+```
 
 Run the command below to see a list of generated files:
 
@@ -163,6 +171,9 @@ Output:
         ├── __init__.py
         └── my_module.py
 ```
+<!-- ---
+## :watch: 14:45 (5 mins) - Explain the generated files with minimum profile
+ -->
 
 ---
 ## :watch: 14:50 (20 mins) - Update the new Python package
@@ -191,17 +202,6 @@ Go to: https://github.com/new
 
 ---
 ## :watch: 15:20 (15 mins) - Push the package to the new GitHub repository
-
-Initialize a git repository:
-
-```
-cd baklava
-git init
-git add --all
-git commit -m "first commit"
-git branch -M main
-git remote add origin git@github.com:fdiblen/baklava.git
-```
 
 Push to GitHub:
 
