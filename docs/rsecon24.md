@@ -131,6 +131,13 @@ Your project "baklava" has been successfully created in baklava folder!
 ---
 ## :watch: 14:45 (5 mins) - Explain the generated files with minimum profile
 
+Run the command below to see a list of generated files:
+
+```
+tree baklava
+```
+
+Output:
 
 ```
 ├── LICENSE
@@ -174,15 +181,15 @@ Go to: https://github.com/new
 ## :watch: 15:20 (15 mins) - Push the package to the new GitHub repository
 
 - Look at the generated `next steps` issues
-- Look at the workflows
+- Look at the GitHub Action workflows
 
 
 ---
 ##  :watch: 15:35 (10 mins) -  Feedback session
 
-[https://tinyurl.com/rsecon24pt](https://tinyurl.com/rsecon24pt)
+Short link: [https://tinyurl.com/rsecon24pt](https://tinyurl.com/rsecon24pt)
 
-[https://hackmd.io/@pBkWTvQwSa6d52OQUwKE6g/BktUdXQ20](https://hackmd.io/@pBkWTvQwSa6d52OQUwKE6g/BktUdXQ20)
+Long link: [https://hackmd.io/@pBkWTvQwSa6d52OQUwKE6g/BktUdXQ20](https://hackmd.io/@pBkWTvQwSa6d52OQUwKE6g/BktUdXQ20)
 
 Questions:
 
