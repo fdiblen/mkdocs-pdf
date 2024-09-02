@@ -138,17 +138,6 @@ Your project "baklava" has been successfully created in baklava folder!
 
 ```
 
-Follow the next steps: Initialize a git repository:
-
-```
-cd baklava
-git init
-git add --all
-git commit -m "first commit"
-git branch -M main
-git remote add origin git@github.com:fdiblen/baklava.git
-```
-
 Run the command below to see a list of generated files:
 
 ```
@@ -171,6 +160,18 @@ Output:
         ├── __init__.py
         └── my_module.py
 ```
+
+Follow the next steps: Initialize a git repository:
+
+```
+cd baklava
+git init
+git add --all
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:fdiblen/baklava.git
+```
+
 <!-- ---
 ## :watch: 14:45 (5 mins) - Explain the generated files with minimum profile
  -->
