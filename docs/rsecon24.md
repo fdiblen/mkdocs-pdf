@@ -180,3 +180,6 @@ Go to: https://github.com/new
 ---
 ##  :watch: 15:35 (10 mins) -  Feedback session
 
+[https://tinyurl.com/rsecon24pt](https://tinyurl.com/rsecon24pt)
+
+[https://hackmd.io/@pBkWTvQwSa6d52OQUwKE6g/BktUdXQ20](https://hackmd.io/@pBkWTvQwSa6d52OQUwKE6g/BktUdXQ20)
