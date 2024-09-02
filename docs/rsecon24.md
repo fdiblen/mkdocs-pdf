@@ -21,6 +21,13 @@
 
 Instructions can be found at [https://github.com/fdiblen/RSECon24](https://github.com/fdiblen/RSECon24)
 
+
+!!! note
+
+    Use `bash shell` with a simple prompt:
+
+    $
+
 Check the shell
 
 ``` { .sh .copy .select linenums="0" title="" }
