@@ -1,6 +1,8 @@
 # Welcome
 
-## Commands
+[https://fdiblen.github.io/rsecon24/](https://fdiblen.github.io/rsecon24/)
+
+<!-- ## Commands
 
 * `mkdocs new [dir-name]` - Create a new project.
 * `mkdocs serve` - Start the live-reloading docs server.
@@ -12,4 +14,4 @@
     mkdocs.yml    # The configuration file.
     docs/
         index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+        ...       # Other markdown pages, images and other files. -->
