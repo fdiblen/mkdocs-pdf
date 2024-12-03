@@ -6,8 +6,8 @@ name = "pypi"
 [packages]
 mkdocs-material = "*"
 mkdocs = "*"
-mkdocs-include-dir-to-nav = "*"
 mkdocs-pdf-export-plugin = "*"
+mkdocs-include-dir-to-nav = "*"
 
 [dev-packages]
 
