@@ -4,8 +4,10 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-mkdocs = "*"
 mkdocs-material = "*"
+mkdocs = "*"
+mkdocs-include-dir-to-nav = "*"
+mkdocs-pdf-export-plugin = "*"
 
 [dev-packages]
 
